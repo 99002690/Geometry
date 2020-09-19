@@ -1,2 +1,2 @@
 # Geometry
-calculate of perimeter and area of shapes
+calculate of perimeter and area of shapes and solids
