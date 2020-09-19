@@ -4,7 +4,7 @@ name: CI
 
 # Controls when the action will run. Triggers the workflow on push or pull request
 
-name: cppcheck-action
+#name: cppcheck-action
 on: [push]
 
 jobs:
